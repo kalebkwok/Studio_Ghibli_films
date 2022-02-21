@@ -5,13 +5,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/kalebkwok/Studio_Ghibli_films">
-    <img src="public/Studio_Ghibli_logo.svg.png" alt="Logo" width="80" height="80">
+    <img src="public/Studio_Ghibli_logo.svg.png" alt="Logo" width="120" height="80">
   </a>
 
   <h3 align="center">Studio Ghibli films website</h3>
 
   <p align="center">
-   Next.js based Films Web App。
+   
     <br />
     <br />
     <br />
